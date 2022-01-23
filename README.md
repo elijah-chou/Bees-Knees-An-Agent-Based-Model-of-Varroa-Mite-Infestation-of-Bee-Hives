@@ -1,4 +1,4 @@
-# SCMB-Modeling-Accelerator-Project
+# SCMB-Modeling-Accelerator-Project: Bees Knees: An Agent-Based Model of Varroa Mite Infestation of Bee Hives
 This repository contains all NetLogo files that my group worked on over Summer 2021. 
 It is a agent-based modeling program that simulates the relationship between worker bees and varroa mites.
 

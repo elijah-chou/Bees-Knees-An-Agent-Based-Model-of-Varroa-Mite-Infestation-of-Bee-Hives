@@ -8,3 +8,6 @@ The agent-based model implemented with NetLogo attempts to accurately model the 
 **Contributors:**
 This project was worked on by Lis Dautaj, Tatiana Bolds, Carissa Wu, and Elijah Chou for the Southeast Center for Mathematics and Biology's Summer Modeling Accelerator
 Program 2021. Our mentor Ryan Rinaudo was exceptionally helpful in our learning and creation process.
+
+**Presentation Recording:**
+https://www.youtube.com/watch?v=k0SCcQggWTM
